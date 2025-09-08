@@ -1,3 +1,3 @@
 constant = 10
 
-assert constant//2 == 0
+assert constant%2 == 0
