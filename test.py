@@ -1,4 +1,4 @@
-test = 9
+test = 20
 
 assert test%2 == 0
 print("hello world")
